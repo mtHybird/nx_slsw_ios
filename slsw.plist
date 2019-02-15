@@ -17,13 +17,13 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>cn.mastercom.shandong.mtapp</string>
+					<string>cn.mastercom.ningxia.mtapp</string>
 					<key>bundle-version</key>
 					<string>1.0.0</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<string>山东四轮十维</string>
+					<string>宁夏四轮十维</string>
 				</dict>
 			</dict>
 		</array>
